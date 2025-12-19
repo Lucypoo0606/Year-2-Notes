@@ -25,7 +25,9 @@
     }
   },
   "smart_notices": {
-    "muted": {}
+    "muted": {
+      "done_import": true
+    }
   },
   "smart_view_filter": {
     "expanded_view": false,
@@ -50,7 +52,8 @@
         "render_markdown": true,
         "show_full_path": false
       }
-    }
+    },
+    "expanded_view": false
   },
   "context_items": {
     "template_before": "<item loc=\"{{KEY}}\" at=\"{{TIME_AGO}}\">",

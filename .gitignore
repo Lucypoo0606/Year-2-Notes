@@ -1,0 +1,14 @@
+# Ignore workspace files (these change every time you click a file)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+
+# Optional: Ignore everything in .obsidian EXCEPT your plugins and themes
+# (Uncomment the line below if you want to skip EVERYTHING in .obsidian)
+# .obsidian/
+
+# Ignore system trash
+.trash/.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+.trash/
