@@ -1,2 +1,0 @@
-## Variables
-- Java contains prim
