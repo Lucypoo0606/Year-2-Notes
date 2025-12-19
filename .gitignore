@@ -1,14 +1,16 @@
-# Ignore workspace files (these change every time you click a file)
+# Ignore internal Obsidian layout (essential to avoid conflicts)
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
 .obsidian/graph.json
 
-# Optional: Ignore everything in .obsidian EXCEPT your plugins and themes
-# (Uncomment the line below if you want to skip EVERYTHING in .obsidian)
-# .obsidian/
+# Ignore the AI/Environment cache you mentioned
+.smart-env/
 
-# Ignore system trash
-.trash/.obsidian/workspace.json
-.obsidian/workspace-mobile.json
+# Ignore system junk
+.DS_Store
+.trash/
+Thumbs.db.obsidian/workspace-mobile.json
 .obsidian/graph.json
 .trash/
+.smart-env/
+.smart-env/
